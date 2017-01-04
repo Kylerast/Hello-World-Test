@@ -1,2 +1,10 @@
 # Hello-World-Test
-Test repository using Hello world (Java)
+public class HelloWorld{
+
+  public static void main(String [] args){
+	
+    System.out.println("Hello World");
+		
+  }
+	
+}
